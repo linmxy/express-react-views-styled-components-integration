@@ -20,9 +20,6 @@ results
 temp
 dist
 build
-server/data/*.csv
-server/upload/*.csv
-server/upload/*.xlsx
 
 # Editors
 *.sublime-workspace
