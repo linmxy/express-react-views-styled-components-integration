@@ -4,7 +4,7 @@ import {Wrapper} from './hello.style';
 
 export default props => {
   return (
-    <Layout title="SMX RSVP">
+    <Layout title="Hello World">
       <Wrapper>
         Hello world!
       </Wrapper>
