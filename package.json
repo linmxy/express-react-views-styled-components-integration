@@ -1,0 +1,11 @@
+{
+  "name": "express-react-view-integrate-with-styled-components",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-react-views": "^0.10.5",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.2.3"
+  }
+}
